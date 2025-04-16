@@ -1,7 +1,7 @@
 {
   "name": "bp-tools",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.6.2",
   "description": "是一个用于三维装箱问题的库",
   "author": "Cee Vee X <ycxgzs@gmail.com>",
